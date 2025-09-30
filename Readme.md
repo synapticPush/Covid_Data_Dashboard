@@ -23,7 +23,7 @@ This project was developed as a final assignment to showcase skills in data hand
 ## Live Dashboard & Notebook Links
 
 - **Live Dashboard**: https://0xarchit-covid-dashboard.streamlit.app
-- **Jupyter Notebook**: [[https://colab.research.google.com/drive/1eIEiwLE9tYK3zamSqN_xjee_nIBlVY38?usp=sharing](https://colab.research.google.com/drive/18MyK_poulz-mGYppsiqiVnCWHiwM0WVV)](https://colab.research.google.com/drive/18MyK_poulz-mGYppsiqiVnCWHiwM0WVV?usp=sharing)
+- **Jupyter Notebook**: [[https://colab.research.google.com/drive/1eIEiwLE9tYK3zamSqN_xjee_nIBlVY38?usp=sharing](https://colab.research.google.com/drive/18MyK_poulz-mGYppsiqiVnCWHiwM0WVV)]
 
 ---
 
